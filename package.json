@@ -1,6 +1,6 @@
 {
   "name": "git-cp",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "description": "Copy entire git repo contents excluding .git folder",
   "main": "index.js",
   "scripts": {
