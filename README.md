@@ -1,4 +1,4 @@
-# git-copy
+# git-cp
 
 Copy entire git repo contents excluding `.git` folder.
 
