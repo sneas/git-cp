@@ -1,0 +1,31 @@
+{
+  "name": "git-cp",
+  "version": "1.0.0",
+  "description": "Copy entire GIT repository's content excluding .git into a specific folder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "git-cp": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sneas/git-copy.git"
+  },
+  "keywords": [
+    "git",
+    "download",
+    "copy"
+  ],
+  "author": "Dima Snisarenko <snisarenkodima@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sneas/git-copy/issues"
+  },
+  "homepage": "https://github.com/sneas/git-copy#readme",
+  "dependencies": {
+    "colors": "1.3.3",
+    "fs-extra": "7.0.1"
+  }
+}
